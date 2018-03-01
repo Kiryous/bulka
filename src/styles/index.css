@@ -1,0 +1,6 @@
+@import './conf/variables.css';
+@import './components/default.css';
+
+body {
+  font-family: var(--sans);
+}
