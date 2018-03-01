@@ -11,4 +11,9 @@ Another boilerplate to build assets without HTML-templates. Suits for projects, 
 - Does't build any HTML templates 
 - Doesn't sync browsers or something like that
 
+**TODO**
+- Better linters setup
+- Prettier
+- Fix svg opt
+
 Inspired by initium and work of folks from codecode.ru
