@@ -1,4 +1,4 @@
-# Bulka
+# 🥖 Bulka
 Boilerplate to build CSS, JS and images (without HTML-templates). For projects with own template system (e.g. Wordpress, Django, etc)
 
 **It does**
