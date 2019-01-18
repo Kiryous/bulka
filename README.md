@@ -1,5 +1,5 @@
-# Paradnaya
-Another boilerplate to build assets without HTML-templates. Suits for projects, which have template system (e.g. Wordpress, Django, etc)
+# Bulka
+Boilerplate to build CSS, JS and images (without HTML-templates). For projects with own template system (e.g. Wordpress, Django, etc)
 
 **It does**
 - Builds styles with number of `postcss` plugins
